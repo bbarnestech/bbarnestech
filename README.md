@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbarnestech
 - 👀 I’m interested in Microsoft Power Platform and associated technologies
-- 🌱 I’m currently learning Static web Apps in Azure
+- 🌱 I’m currently learning information and technologies surrounding the PL-400: Microsoft Power Platform Developer certification
 - 💞️ I’m looking to collaborate on all things Power Platform
 - 📫 How to reach me: brandon@bbarnes.tech
 

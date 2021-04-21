@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbarnestech
 - 👀 I’m interested in Microsoft Power Platform and associated technologies
-- 🌱 I’m currently learning information and technologies surrounding the PL-400: Microsoft Power Platform Developer certification
+- 🌱 I’m a certified Microsoft Power Platform Developer Associate
 - 💞️ I’m looking to collaborate on all things Power Platform
 
 <!---
